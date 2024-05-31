@@ -4,10 +4,10 @@ def main():
     while len(passward) != LEN_PASSWARD:
         print("Incorrect")
         passward = get_passward()
-    method_name(passward)
+    display_passward(passward)
 
 
-def method_name(passward):
+def display_passward(passward):
     print(len(passward) * "*")
 
 
