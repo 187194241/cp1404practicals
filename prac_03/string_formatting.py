@@ -32,10 +32,10 @@ numbers = [1, 19, 123, 456, -25]
 for i, number in enumerate(numbers, 1):
     print(f"Number {i:>2} is {number:5}")
 
-# TODO: Use f-string formatting to produce the output:
+# Use f-string formatting to produce the output:
 print(f"{year} {name} for about ${cost:,.2f}!")
 
-# TODO: Using a for loop with the range function and f-string formatting,
+# Using a for loop with the range function and f-string formatting,
 # produce the following right-aligned output (DO NOT use a list):
 for i in range(11):
     result = 2**i
