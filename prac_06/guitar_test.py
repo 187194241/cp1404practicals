@@ -3,6 +3,8 @@ Estimated time: 15min
 Real time: 22min
 """
 from prac_06.guitar import Guitar
+
+
 def main():
     gibson = Guitar("Gibson L-5 CES", 1922, 16035.40)
     another_guitar = Guitar("Another Guitar", 2013, 10000.00)
@@ -17,5 +19,8 @@ def main():
     real_vintage_gibson = gibson.is_vintage()
     real_vintage_another_guitar = another_guitar.is_vintage()
     print(f"{gibson.name} is_vintage() - Expected {expect_vintage_gibson}. Got {real_vintage_gibson}.")
-    print(f"{another_guitar.name} is_vintage() - Expected {expect_vintage_another_guitar}. Got {real_vintage_another_guitar}.")
+    print(
+        f"{another_guitar.name} is_vintage() - Expected {expect_vintage_another_guitar}. Got {real_vintage_another_guitar}.")
+
+
 main()

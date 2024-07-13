@@ -23,4 +23,3 @@ I need to change this bad habit.
 ## What is one request you have or change you suggest for this subject and/or your IT degree overall?
 
 ...No suggestions, I think the teacher level and teaching quality are all excellent.
-
