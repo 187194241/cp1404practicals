@@ -15,6 +15,6 @@ My name is Wentao Dong, I am a student working on practical exercises and projec
 
 ## Useful Links
 
-- [Programming Patterns](https://github.com/187194241/cp1404practicals)  
+- [Programming Patterns](https://github.com/187194241/cp1404practicals)
 - [CP1404 Practicals Instructions](https://github.com/187194241/cp1404practicals)
 Practical work for IT@JCU CP1404
